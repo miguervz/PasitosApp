@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PasitosApp</string>
+    <string name="google_maps_key"
+        templateMergeStrategy="preserve"
+        translatable="false">
+        AIzaSyAkeGsDrkFfuAxlq8J5IlG4XWk_vh8UA6c
+    </string>
+</resources>
